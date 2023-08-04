@@ -1,0 +1,18 @@
+.pink-panther {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 185, 196)
+}
+
+#im-blue {
+    color: rgb(12, 65, 198);
+    font-size: 36px;
+}
+
+#hulk-smash {
+    font-weight: bold;
+    background-color: rgb(4, 216, 0);
+}
+
+.twentyfour {
+    font-size: 24px;
+}
