@@ -1,0 +1,26 @@
+div p {
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+
+/* Descendant Combinators using classes instead of types */
+/* 
+.contatiner .text {
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+} 
+*/
+
+/* Descendant Combinator using types and types */
+/* 
+div .text {
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+} 
+*/
